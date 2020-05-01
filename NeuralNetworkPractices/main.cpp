@@ -1,6 +1,6 @@
 #include <iostream>
 #include <memory>
-
+#include <cmath>
 
 struct Base
 {
