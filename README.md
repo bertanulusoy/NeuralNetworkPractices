@@ -8,3 +8,5 @@ It will support for the main Neural Network project.
 So, this project is actually a document. 
 
 Can benefit anyone who wants to learn Neural Networks from scratch.
+
+[![Build status](https://ci.appveyor.com/api/projects/status/vtn0vamjojac2cwm?svg=true)](https://ci.appveyor.com/project/bertanulusoy/neuralnetworkpractices)
