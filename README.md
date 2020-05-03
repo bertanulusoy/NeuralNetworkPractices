@@ -1,5 +1,4 @@
-# NeuralNetworkPractices
-Neural Network Practices
+# Neural Network Practices
 
 I opened this repo because I want to display the piece of practice codes here. 
 
