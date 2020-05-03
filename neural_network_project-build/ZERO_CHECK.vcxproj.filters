@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="D:\Projects\NeuralNetworkPractices\neural_network_project-build\CMakeFiles\54056490b2b458a8d5394fad854f9b20\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{1141D2DB-818B-39B8-AD02-2C9C4F963FA5}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

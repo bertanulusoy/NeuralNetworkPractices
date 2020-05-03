@@ -1,0 +1,4 @@
+﻿  Building Custom Rule D:/Projects/NeuralNetworkPractices/CMakeLists.txt
+  CMake does not need to re-run because D:/Projects/NeuralNetworkPractices/neural_network_project-build/CMakeFiles/generate.stamp is up-to-date.
+  main.cpp
+  intro.vcxproj -> D:\Projects\NeuralNetworkPractices\neural_network_project-build\Debug\intro.exe
