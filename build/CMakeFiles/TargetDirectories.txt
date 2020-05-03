@@ -1,0 +1,3 @@
+/home/bertan/Development/NeuralNetworkPractices/build/CMakeFiles/rebuild_cache.dir
+/home/bertan/Development/NeuralNetworkPractices/build/CMakeFiles/intro.dir
+/home/bertan/Development/NeuralNetworkPractices/build/CMakeFiles/edit_cache.dir
