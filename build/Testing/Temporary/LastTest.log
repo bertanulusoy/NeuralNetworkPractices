@@ -1,0 +1,18 @@
+Start testing: May 03 18:58 +03
+----------------------------------------------------------
+1/1 Testing: Tester
+1/1 Test: Tester
+Command: "/home/bertan/Development/NeuralNetworkPractices/build/tester"
+Directory: /home/bertan/Development/NeuralNetworkPractices/build
+"Tester" start time: May 03 18:58 +03
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"Tester" end time: May 03 18:58 +03
+"Tester" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: May 03 18:58 +03

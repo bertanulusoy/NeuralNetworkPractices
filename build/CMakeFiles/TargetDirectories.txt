@@ -1,3 +1,5 @@
 /home/bertan/Development/NeuralNetworkPractices/build/CMakeFiles/rebuild_cache.dir
-/home/bertan/Development/NeuralNetworkPractices/build/CMakeFiles/intro.dir
 /home/bertan/Development/NeuralNetworkPractices/build/CMakeFiles/edit_cache.dir
+/home/bertan/Development/NeuralNetworkPractices/build/CMakeFiles/intro.dir
+/home/bertan/Development/NeuralNetworkPractices/build/CMakeFiles/test.dir
+/home/bertan/Development/NeuralNetworkPractices/build/CMakeFiles/tester.dir
